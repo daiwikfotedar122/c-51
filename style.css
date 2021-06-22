@@ -1,0 +1,24 @@
+h1{
+    color:brown
+}
+*{
+    border:solid;
+}
+.header{
+    background-color:lightblue;
+    display:flex;
+    justify-content:space-between;
+
+}
+h2{
+    text-align: center;
+    background-color: lightcyan;
+}
+.game1{
+    display:flex;
+    justify-content: left;
+    background-color: lightgreen;
+}
+body{
+    background-color: lightskyblue;
+}
